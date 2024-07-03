@@ -1,0 +1,212 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #e1e0e0d3;
+}
+
+header {
+    background-image: url("images/city2.jpg");
+    /* background: #333; */
+    /* color: #ffffff;
+    padding: 50px;
+    text-align: center;
+}
+
+header p { */
+    /* font-size: 1.2em;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+    background: #b3aeae87;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+}
+
+.course, .teacher {
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.course img, .teacher img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.course:hover, .teacher:hover {
+    transform: scale(1.05);
+}
+
+.course-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    background: #333;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.course-button:hover {
+    transform: scale(1.1);
+    background: #625b5b;
+}
+
+#contact {
+    background-image: url("images/city2.jpg");
+    /* background: #333; */
+    /* color: #fff;
+    padding: 20px;
+    text-align: center;
+} */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body { 
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    padding: 0; 
+    line-height: 1.6; 
+    background-color: #e1e0e0d3; 
+} 
+ 
+header { 
+    background-image: url("images/city2.jpg"); 
+    color: #ffffff; 
+    padding: 50px; 
+    text-align: center; 
+} 
+ 
+header p { 
+    font-size: 1.2em; 
+} 
+section { 
+    padding: 20px; 
+    margin: 20px 0; 
+    background: #b3aeae87; 
+    border-radius: 8px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+} 
+ 
+h2 { 
+    color: #333; 
+} 
+ 
+.course, .teacher { 
+    display: inline-block; 
+    width: 30%; 
+    margin: 10px; 
+    text-align: center; 
+    transition: transform 0.3s ease; 
+} 
+ 
+.course img, .teacher img { 
+    width: 100%; 
+    height: auto; 
+    border-radius: 8px; 
+} 
+ 
+.course:hover, .teacher:hover { 
+    transform: scale(1.05); 
+} 
+ 
+.course-button { 
+    display: inline-block; 
+    padding: 10px 20px; 
+    margin-top: 10px; 
+    background: #333; 
+    color: #ffffff; 
+    border: none; 
+    cursor: pointer; 
+    transition: transform 0.3s ease; 
+} 
+ 
+.course-button:hover { 
+    transform: scale(1.1); 
+    background: #625b5b; 
+} 
+ 
+#contact { 
+    background-image: url("images/city2.jpg"); 
+    color: #fff; 
+    padding: 20px; 
+    text-align: center; 
+}
+
+/* Additional CSS for course details pages */
+
+.course-detail {
+    text-align: center;
+}
+
+.course-detail img {
+    width: 50%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.course-detail p {
+    font-size: 1.2em;
+    color: #333;
+    line-height: 1.5;
+}
+
+.teacher-detail {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.teacher-detail img {
+    width: 25%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.teacher-detail p {
+    font-size: 1.2em;
+    color: #333;
+    margin-top: 10px;
+}
+
+#contact p {
+    font-size: 1.2em;
+    color: #fff;
+}
